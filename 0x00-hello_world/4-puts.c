@@ -1,7 +1,11 @@
 #include <stdio.h>
-/*obligatory description for main*/
+/**
+ *  * main - Entry point
+ *   *
+ *    * Return: Always 0 (Success)
+ *     */
 int main(void)
 {
-puts( "Programming is like building a multiliingual puzzle\n");
-	return(0);
+puts("Programming is like building a multiliingual puzzle\n");
+	return (0);
 }
